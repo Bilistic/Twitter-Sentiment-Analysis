@@ -1,0 +1,6 @@
+flask
+pymongo
+pika
+uuid
+tweepy
+textblob
